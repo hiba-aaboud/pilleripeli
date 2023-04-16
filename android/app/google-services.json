@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "980807996292",
+    "project_id": "thesis-749a0",
+    "storage_bucket": "thesis-749a0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:980807996292:android:85fcd019908760834943d1",
+        "android_client_info": {
+          "package_name": "com.example.pilleripeli"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "980807996292-ku7t9g9nk07kh0s9ldfj287m38tnaftm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHa4f6xf3MmtNAKK2DzeRh9TtZzz_KFAo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "980807996292-ku7t9g9nk07kh0s9ldfj287m38tnaftm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
